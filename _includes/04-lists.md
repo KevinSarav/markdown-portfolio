@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+-Graduated second in my class
+-Graduated from UH Main in 3 years
+  -Will continue on to get a Computer Science masters
